@@ -1,4 +1,4 @@
 print('hello world')
-var = 'hello'   
+var = 'HELLO'   
 print(var)
 var = 'world'
